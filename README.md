@@ -1,4 +1,4 @@
-# HealthVault – Personal Health Record Organizer
+#   HealthVault – Personal Health Record Organizer
 
 <p align="center">
   **Your Family's Health Records, Organized in One Place.**
